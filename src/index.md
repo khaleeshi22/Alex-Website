@@ -9,7 +9,7 @@ socialImage: /images/profile-pic.jpg
 
 _This is the sad story of Alexandra Taylor, a fourth year history major currently studying at the University of Alberta Augustana Campus. Hopefully I'll become a museum curator in the future, but who knows._
 
-_Meme of the Month_
+**Meme of the Month**
 
-Person: Why are you a history major?
-Me: The failures of men amuse me
+> **Person: Why are you a history major?
+Me: The failures of men amuse me**
