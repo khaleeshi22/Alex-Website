@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Alexandra Taylor
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+This is the sad story of Alexandra Taylor, a fourth year history major currently studying at the University of Alberta Augustana Campus. Hopefully I'll become a museum curator in the future, but who knows.
