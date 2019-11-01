@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Alexandra Taylor
+title: '         Alexandra Taylor'
 postsHeading: Social Media
 archiveButtonText: See all posts
 socialImage: /images/profile-pic.jpg
